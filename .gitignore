@@ -20,3 +20,9 @@ src.egg-info/
 
 # VS Code
 .vscode/
+
+# Notebook
+notebook/
+
+# logs
+logs/
