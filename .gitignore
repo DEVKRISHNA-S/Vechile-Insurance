@@ -1,0 +1,22 @@
+# Virtual environment
+mlops1/
+
+# MongoDB configuration / credentials
+mongodb.txt
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Package build/generated metadata
+src.egg-info/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
